@@ -1047,7 +1047,9 @@ Array [
               </code>
             </div>
             <p>
-              Improving structure / format of the code.
+              Improving structure / format of the code
+              <br />
+              改进代码结构或格式化代码
             </p>
           </div>
         </div>
@@ -1080,7 +1082,9 @@ Array [
               </code>
             </div>
             <p>
-              Improving performance.
+              Improving performance
+              <br />
+              提升性能
             </p>
           </div>
         </div>
@@ -1113,7 +1117,9 @@ Array [
               </code>
             </div>
             <p>
-              Removing code or files.
+              Removing code or files
+              <br />
+              删除代码或文件
             </p>
           </div>
         </div>
@@ -1146,7 +1152,9 @@ Array [
               </code>
             </div>
             <p>
-              Fixing a bug.
+              Fixing a bug
+              <br />
+              修复Bug
             </p>
           </div>
         </div>
@@ -1179,7 +1187,9 @@ Array [
               </code>
             </div>
             <p>
-              Critical hotfix.
+              Critical hotfix
+              <br />
+              紧急修复
             </p>
           </div>
         </div>
@@ -1212,7 +1222,9 @@ Array [
               </code>
             </div>
             <p>
-              Introducing new features.
+              Introducing new features
+              <br />
+              介绍新特性
             </p>
           </div>
         </div>
@@ -1245,7 +1257,9 @@ Array [
               </code>
             </div>
             <p>
-              Writing docs.
+              Writing docs
+              <br />
+              书写文档
             </p>
           </div>
         </div>
@@ -1278,7 +1292,9 @@ Array [
               </code>
             </div>
             <p>
-              Deploying stuff.
+              Deploying stuff
+              <br />
+              部署
             </p>
           </div>
         </div>
@@ -1311,7 +1327,9 @@ Array [
               </code>
             </div>
             <p>
-              Adding or updating the UI and style files.
+              Adding or updating the UI and style files
+              <br />
+              添加或更改UI和样式文件
             </p>
           </div>
         </div>
@@ -1344,7 +1362,9 @@ Array [
               </code>
             </div>
             <p>
-              Begining a project.
+              Begining a project
+              <br />
+              初始化项目
             </p>
           </div>
         </div>
@@ -1377,7 +1397,9 @@ Array [
               </code>
             </div>
             <p>
-              Adding or updating tests.
+              Adding or updating tests
+              <br />
+              添加或更改测试代码
             </p>
           </div>
         </div>
@@ -1410,7 +1432,9 @@ Array [
               </code>
             </div>
             <p>
-              Fixing security issues.
+              Fixing security issues
+              <br />
+              修复安全问题
             </p>
           </div>
         </div>
@@ -1443,7 +1467,9 @@ Array [
               </code>
             </div>
             <p>
-              Releasing / Version tags.
+              Releasing / Version tags
+              <br />
+              发布版本或版本标签
             </p>
           </div>
         </div>
@@ -1476,7 +1502,9 @@ Array [
               </code>
             </div>
             <p>
-              Removing linter warnings.
+              Removing linter warnings
+              <br />
+              删除linter警告
             </p>
           </div>
         </div>
@@ -1509,7 +1537,9 @@ Array [
               </code>
             </div>
             <p>
-              Work in progress.
+              Work in progress
+              <br />
+              工作进行中
             </p>
           </div>
         </div>
@@ -1542,7 +1572,9 @@ Array [
               </code>
             </div>
             <p>
-              Fixing CI Build.
+              Fixing CI Build
+              <br />
+              修复持续集成构建
             </p>
           </div>
         </div>
@@ -1575,7 +1607,9 @@ Array [
               </code>
             </div>
             <p>
-              Downgrading dependencies.
+              Downgrading dependencies
+              <br />
+              降级依赖
             </p>
           </div>
         </div>
@@ -1608,7 +1642,9 @@ Array [
               </code>
             </div>
             <p>
-              Upgrading dependencies.
+              Upgrading dependencies
+              <br />
+              升级依赖
             </p>
           </div>
         </div>
@@ -1641,7 +1677,9 @@ Array [
               </code>
             </div>
             <p>
-              Pinning dependencies to specific versions.
+              Pinning dependencies to specific versions
+              <br />
+              固定依赖到特定版本
             </p>
           </div>
         </div>
@@ -1674,7 +1712,9 @@ Array [
               </code>
             </div>
             <p>
-              Adding or updating CI build system.
+              Adding or updating CI build system
+              <br />
+              添加或更改持续集成构建系统
             </p>
           </div>
         </div>
@@ -1707,7 +1747,9 @@ Array [
               </code>
             </div>
             <p>
-              Adding or updating analytics or tracking code.
+              Adding or updating analytics or tracking code
+              <br />
+              添加或更改分析追踪代码
             </p>
           </div>
         </div>
@@ -1740,7 +1782,9 @@ Array [
               </code>
             </div>
             <p>
-              Refactoring code.
+              Refactoring code
+              <br />
+              代码重构
             </p>
           </div>
         </div>
@@ -1773,7 +1817,9 @@ Array [
               </code>
             </div>
             <p>
-              Adding a dependency.
+              Adding a dependency
+              <br />
+              添加依赖
             </p>
           </div>
         </div>
@@ -1806,7 +1852,9 @@ Array [
               </code>
             </div>
             <p>
-              Removing a dependency.
+              Removing a dependency
+              <br />
+              移除依赖
             </p>
           </div>
         </div>
@@ -1839,7 +1887,9 @@ Array [
               </code>
             </div>
             <p>
-              Adding or updating configuration files.
+              Adding or updating configuration files
+              <br />
+              添加或更改配置文件
             </p>
           </div>
         </div>
@@ -1872,7 +1922,9 @@ Array [
               </code>
             </div>
             <p>
-              Adding or updating build scripts.
+              Adding or updating build scripts
+              <br />
+              添加或更改构建脚本
             </p>
           </div>
         </div>
@@ -1905,7 +1957,9 @@ Array [
               </code>
             </div>
             <p>
-              Internationalization and localization.
+              Internationalization and localization
+              <br />
+              国际化与本地化
             </p>
           </div>
         </div>
@@ -1938,7 +1992,9 @@ Array [
               </code>
             </div>
             <p>
-              Fixing typos.
+              Fixing typos
+              <br />
+              修改错别字
             </p>
           </div>
         </div>
@@ -1971,7 +2027,9 @@ Array [
               </code>
             </div>
             <p>
-              Writing bad code that needs to be improved.
+              Writing bad code that needs to be improved
+              <br />
+              需要改进的烂代码
             </p>
           </div>
         </div>
@@ -2004,7 +2062,9 @@ Array [
               </code>
             </div>
             <p>
-              Reverting changes.
+              Reverting changes
+              <br />
+              回滚
             </p>
           </div>
         </div>
@@ -2037,7 +2097,9 @@ Array [
               </code>
             </div>
             <p>
-              Merging branches.
+              Merging branches
+              <br />
+              合并分支
             </p>
           </div>
         </div>
@@ -2070,7 +2132,9 @@ Array [
               </code>
             </div>
             <p>
-              Adding or updating compiled files or packages.
+              Adding or updating compiled files or packages
+              <br />
+              添加或更改编译文件或包配置文件
             </p>
           </div>
         </div>
@@ -2103,7 +2167,9 @@ Array [
               </code>
             </div>
             <p>
-              Updating code due to external API changes.
+              Updating code due to external API changes
+              <br />
+              由于外部API的更改而更新了代码
             </p>
           </div>
         </div>
@@ -2136,7 +2202,9 @@ Array [
               </code>
             </div>
             <p>
-              Moving or renaming files.
+              Moving or renaming files
+              <br />
+              移动或重命名文件
             </p>
           </div>
         </div>
@@ -2169,7 +2237,9 @@ Array [
               </code>
             </div>
             <p>
-              Adding or updating license.
+              Adding or updating license
+              <br />
+              添加或更改许可证
             </p>
           </div>
         </div>
@@ -2202,7 +2272,9 @@ Array [
               </code>
             </div>
             <p>
-              Introducing breaking changes.
+              Introducing breaking changes
+              <br />
+              重大更改
             </p>
           </div>
         </div>
@@ -2235,7 +2307,9 @@ Array [
               </code>
             </div>
             <p>
-              Adding or updating assets.
+              Adding or updating assets
+              <br />
+              添加或更改资源
             </p>
           </div>
         </div>
@@ -2268,7 +2342,9 @@ Array [
               </code>
             </div>
             <p>
-              Improving accessibility.
+              Improving accessibility
+              <br />
+              提升可访问性
             </p>
           </div>
         </div>
@@ -2301,7 +2377,9 @@ Array [
               </code>
             </div>
             <p>
-              Adding or updating comments in source code.
+              Adding or updating comments in source code
+              <br />
+              添加或更改源代码的注释
             </p>
           </div>
         </div>
@@ -2334,7 +2412,9 @@ Array [
               </code>
             </div>
             <p>
-              Writing code drunkenly.
+              Writing code drunkenly
+              <br />
+              醉酒编写代码
             </p>
           </div>
         </div>
@@ -2367,7 +2447,9 @@ Array [
               </code>
             </div>
             <p>
-              Adding or updating text and literals.
+              Adding or updating text and literals
+              <br />
+              添加或更改文本文字
             </p>
           </div>
         </div>
@@ -2400,7 +2482,9 @@ Array [
               </code>
             </div>
             <p>
-              Performing database related changes.
+              Performing database related changes
+              <br />
+              执行数据库相关的更改
             </p>
           </div>
         </div>
@@ -2433,7 +2517,9 @@ Array [
               </code>
             </div>
             <p>
-              Adding or updating logs.
+              Adding or updating logs
+              <br />
+              添加或更改日志记录
             </p>
           </div>
         </div>
@@ -2466,7 +2552,9 @@ Array [
               </code>
             </div>
             <p>
-              Removing logs.
+              Removing logs
+              <br />
+              移除日志记录
             </p>
           </div>
         </div>
@@ -2499,7 +2587,8 @@ Array [
               </code>
             </div>
             <p>
-              Adding or updating contributor(s).
+              Adding or updating contributor(s).添加或更改贡献者
+              <br />
             </p>
           </div>
         </div>
@@ -2532,7 +2621,9 @@ Array [
               </code>
             </div>
             <p>
-              Improving user experience / usability.
+              Improving user experience / usability
+              <br />
+              提高用户体验/可用性
             </p>
           </div>
         </div>
@@ -2565,7 +2656,9 @@ Array [
               </code>
             </div>
             <p>
-              Making architectural changes.
+              Making architectural changes
+              <br />
+              更改架构
             </p>
           </div>
         </div>
@@ -2598,7 +2691,9 @@ Array [
               </code>
             </div>
             <p>
-              Working on responsive design.
+              Working on responsive design
+              <br />
+              响应式设计
             </p>
           </div>
         </div>
@@ -2631,7 +2726,9 @@ Array [
               </code>
             </div>
             <p>
-              Mocking things.
+              Mocking things
+              <br />
+              Mock数据
             </p>
           </div>
         </div>
@@ -2664,7 +2761,9 @@ Array [
               </code>
             </div>
             <p>
-              Adding or updating an easter egg.
+              Adding or updating an easter egg
+              <br />
+              添加或更改复活节彩蛋
             </p>
           </div>
         </div>
@@ -2698,6 +2797,8 @@ Array [
             </div>
             <p>
               Adding or updating a .gitignore file
+              <br />
+              添加或更改.gitignore文件
             </p>
           </div>
         </div>
@@ -2731,6 +2832,8 @@ Array [
             </div>
             <p>
               Adding or updating snapshots
+              <br />
+               添加或更改快照
             </p>
           </div>
         </div>
@@ -2764,6 +2867,8 @@ Array [
             </div>
             <p>
               Experimenting new things
+              <br />
+              尝试新事物
             </p>
           </div>
         </div>
@@ -2797,6 +2902,8 @@ Array [
             </div>
             <p>
               Improving SEO
+              <br />
+              优化SEO
             </p>
           </div>
         </div>
@@ -2829,7 +2936,8 @@ Array [
               </code>
             </div>
             <p>
-              Adding or updating types (Flow, TypeScript)
+              Adding or updating types (Flow, TypeScript).添加或更改类型（Flow，TypeScript）
+              <br />
             </p>
           </div>
         </div>
@@ -2863,6 +2971,7 @@ Array [
             </div>
             <p>
               Adding or updating seed files
+              <br />
             </p>
           </div>
         </div>
@@ -2896,6 +3005,8 @@ Array [
             </div>
             <p>
               Adding, updating, or removing feature flags
+              <br />
+              添加，更新或删除功能标志
             </p>
           </div>
         </div>
@@ -2929,6 +3040,8 @@ Array [
             </div>
             <p>
               Catching errors
+              <br />
+              捕获错误
             </p>
           </div>
         </div>
@@ -2962,6 +3075,8 @@ Array [
             </div>
             <p>
               Adding or updating animations and transitions
+              <br />
+              添加或更改动画和过渡
             </p>
           </div>
         </div>
@@ -2994,7 +3109,9 @@ Array [
               </code>
             </div>
             <p>
-              Deprecating code that needs to be cleaned up.
+              Deprecating code that needs to be cleaned up
+              <br />
+              清理废弃的代码。
             </p>
           </div>
         </div>
