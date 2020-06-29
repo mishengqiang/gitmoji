@@ -4,385 +4,385 @@
       "emoji": "🎨",
       "entity": "&#x1f3a8;",
       "code": ":art:",
-      "description": "Improving structure / format of the code.",
+      "description": "Improving structure / format of the code.改进代码结构或格式化代码",
       "name": "art"
     },
     {
       "emoji": "⚡️",
       "entity": "&#x26a1;",
       "code": ":zap:",
-      "description": "Improving performance.",
+      "description": "Improving performance.提升性能",
       "name": "zap"
     },
     {
       "emoji": "🔥",
       "entity": "&#x1f525;",
       "code": ":fire:",
-      "description": "Removing code or files.",
+      "description": "Removing code or files.删除代码或文件",
       "name": "fire"
     },
     {
       "emoji": "🐛",
       "entity": "&#x1f41b;",
       "code": ":bug:",
-      "description": "Fixing a bug.",
+      "description": "Fixing a bug.修复Bug",
       "name": "bug"
     },
     {
       "emoji": "🚑",
       "entity": "&#128657;",
       "code": ":ambulance:",
-      "description": "Critical hotfix.",
+      "description": "Critical hotfix.紧急修复",
       "name": "ambulance"
     },
     {
       "emoji": "✨",
       "entity": "&#x2728;",
       "code": ":sparkles:",
-      "description": "Introducing new features.",
+      "description": "Introducing new features.介绍新特性",
       "name": "sparkles"
     },
     {
       "emoji": "📝",
       "entity": "&#x1f4dd;",
       "code": ":pencil:",
-      "description": "Writing docs.",
+      "description": "Writing docs.书写文档",
       "name": "pencil"
     },
     {
       "emoji": "🚀",
       "entity": "&#x1f680;",
       "code": ":rocket:",
-      "description": "Deploying stuff.",
+      "description": "Deploying stuff.部署",
       "name": "rocket"
     },
     {
       "emoji": "💄",
       "entity": "&#ff99cc;",
       "code": ":lipstick:",
-      "description": "Adding or updating the UI and style files.",
+      "description": "Adding or updating the UI and style files.添加或更改UI和样式文件",
       "name": "lipstick"
     },
     {
       "emoji": "🎉",
       "entity": "&#127881;",
       "code": ":tada:",
-      "description": "Begining a project.",
+      "description": "Begining a project.初始化项目",
       "name": "tada"
     },
     {
       "emoji": "✅",
       "entity": "&#x2705;",
       "code": ":white_check_mark:",
-      "description": "Adding or updating tests.",
+      "description": "Adding or updating tests.添加或更改测试代码",
       "name": "white-check-mark"
     },
     {
       "emoji": "🔒",
       "entity": "&#x1f512;",
       "code": ":lock:",
-      "description": "Fixing security issues.",
+      "description": "Fixing security issues.修复安全问题",
       "name": "lock"
     },
     {
       "emoji": "🔖",
       "entity": "&#x1f516;",
       "code": ":bookmark:",
-      "description": "Releasing / Version tags.",
+      "description": "Releasing / Version tags.发布版本或版本标签",
       "name": "bookmark"
     },
     {
       "emoji": "🚨",
       "entity": "&#x1f6a8;",
       "code": ":rotating_light:",
-      "description": "Removing linter warnings.",
+      "description": "Removing linter warnings.删除linter警告",
       "name": "rotating-light"
     },
     {
       "emoji": "🚧",
       "entity": "&#x1f6a7;",
       "code": ":construction:",
-      "description": "Work in progress.",
+      "description": "Work in progress.工作进行中",
       "name": "construction"
     },
     {
       "emoji": "💚",
       "entity": "&#x1f49a;",
       "code": ":green_heart:",
-      "description": "Fixing CI Build.",
+      "description": "Fixing CI Build.修复持续集成构建",
       "name": "green-heart"
     },
     {
       "emoji": "⬇️",
       "entity": "⬇️",
       "code": ":arrow_down:",
-      "description": "Downgrading dependencies.",
+      "description": "Downgrading dependencies.降级依赖",
       "name": "arrow-down"
     },
     {
       "emoji": "⬆️",
       "entity": "⬆️",
       "code": ":arrow_up:",
-      "description": "Upgrading dependencies.",
+      "description": "Upgrading dependencies.升级依赖",
       "name": "arrow-up"
     },
     {
       "emoji": "📌",
       "entity": "&#x1F4CC;",
       "code": ":pushpin:",
-      "description": "Pinning dependencies to specific versions.",
+      "description": "Pinning dependencies to specific versions.固定依赖到特定版本",
       "name": "pushpin"
     },
     {
       "emoji": "👷",
       "entity": "&#x1f477;",
       "code": ":construction_worker:",
-      "description": "Adding or updating CI build system.",
+      "description": "Adding or updating CI build system.添加或更改持续集成构建系统",
       "name": "construction-worker"
     },
     {
       "emoji": "📈",
       "entity": "&#x1F4C8;",
       "code": ":chart_with_upwards_trend:",
-      "description": "Adding or updating analytics or tracking code.",
+      "description": "Adding or updating analytics or tracking code.添加或更改分析追踪代码",
       "name": "chart-with-upwards-trend"
     },
     {
       "emoji": "♻️",
       "entity": "&#x2672;",
       "code": ":recycle:",
-      "description": "Refactoring code.",
+      "description": "Refactoring code.代码重构",
       "name": "recycle"
     },
     {
       "emoji": "➕",
       "entity": "&#10133;",
       "code": ":heavy_plus_sign:",
-      "description": "Adding a dependency.",
+      "description": "Adding a dependency.添加依赖",
       "name": "heavy-plus-sign"
     },
     {
       "emoji": "➖",
       "entity": "&#10134;",
       "code": ":heavy_minus_sign:",
-      "description": "Removing a dependency.",
+      "description": "Removing a dependency.移除依赖",
       "name": "heavy-minus-sign"
     },
     {
       "emoji": "🔧",
       "entity": "&#x1f527;",
       "code": ":wrench:",
-      "description": "Adding or updating configuration files.",
+      "description": "Adding or updating configuration files.添加或更改配置文件",
       "name": "wrench"
     },
     {
       "emoji": "🔨",
       "entity": "&#128296;",
       "code": ":hammer:",
-      "description": "Adding or updating build scripts.",
+      "description": "Adding or updating build scripts.添加或更改构建脚本",
       "name": "hammer"
     },
     {
       "emoji": "🌐",
       "entity": "&#127760;",
       "code": ":globe_with_meridians:",
-      "description": "Internationalization and localization.",
+      "description": "Internationalization and localization.国际化与本地化",
       "name": "globe-with-meridians"
     },
     {
       "emoji": "✏️",
       "entity": "&#59161;",
       "code": ":pencil2:",
-      "description": "Fixing typos.",
+      "description": "Fixing typos.修改错别字",
       "name": "pencil2"
     },
     {
       "emoji": "💩",
       "entity": "&#58613;",
       "code": ":poop:",
-      "description": "Writing bad code that needs to be improved.",
+      "description": "Writing bad code that needs to be improved.需要改进的烂代码",
       "name": "poop"
     },
     {
       "emoji": "⏪",
       "entity": "&#9194;",
       "code": ":rewind:",
-      "description": "Reverting changes.",
+      "description": "Reverting changes.回滚",
       "name": "rewind"
     },
     {
       "emoji": "🔀",
       "entity": "&#128256;",
       "code": ":twisted_rightwards_arrows:",
-      "description": "Merging branches.",
+      "description": "Merging branches.合并分支",
       "name": "twisted-rightwards-arrows"
     },
     {
       "emoji": "📦",
       "entity": "&#1F4E6;",
       "code": ":package:",
-      "description": "Adding or updating compiled files or packages.",
+      "description": "Adding or updating compiled files or packages.添加或更改编译文件或包配置文件",
       "name": "package"
     },
     {
       "emoji": "👽",
       "entity": "&#1F47D;",
       "code": ":alien:",
-      "description": "Updating code due to external API changes.",
+      "description": "Updating code due to external API changes.由于外部API的更改而更新了代码",
       "name": "alien"
     },
     {
       "emoji": "🚚",
       "entity": "&#1F69A;",
       "code": ":truck:",
-      "description": "Moving or renaming files.",
+      "description": "Moving or renaming files.移动或重命名文件",
       "name": "truck"
     },
     {
       "emoji": "📄",
       "entity": "&#1F4C4;",
       "code": ":page_facing_up:",
-      "description": "Adding or updating license.",
+      "description": "Adding or updating license.添加或更改许可证",
       "name": "page-facing-up"
     },
     {
       "emoji": "💥",
       "entity": "&#x1f4a5;",
       "code": ":boom:",
-      "description": "Introducing breaking changes.",
+      "description": "Introducing breaking changes.重大更改",
       "name": "boom"
     },
     {
       "emoji": "🍱",
       "entity": "&#1F371",
       "code": ":bento:",
-      "description": "Adding or updating assets.",
+      "description": "Adding or updating assets.添加或更改资源",
       "name": "bento"
     },
     {
       "emoji": "♿️",
       "entity": "&#9855;",
       "code": ":wheelchair:",
-      "description": "Improving accessibility.",
+      "description": "Improving accessibility.提升可访问性",
       "name": "wheelchair"
     },
     {
       "emoji": "💡",
       "entity": "&#128161;",
       "code": ":bulb:",
-      "description": "Adding or updating comments in source code.",
+      "description": "Adding or updating comments in source code.添加或更改源代码的注释",
       "name": "bulb"
     },
     {
       "emoji": "🍻",
       "entity": "&#x1f37b;",
       "code": ":beers:",
-      "description": "Writing code drunkenly.",
+      "description": "Writing code drunkenly.醉酒编写代码",
       "name": "beers"
     },
     {
       "emoji": "💬",
       "entity": "&#128172;",
       "code": ":speech_balloon:",
-      "description": "Adding or updating text and literals.",
+      "description": "Adding or updating text and literals.添加或更改文本文字",
       "name": "speech-balloon"
     },
     {
       "emoji": "🗃",
       "entity": "&#128451;",
       "code": ":card_file_box:",
-      "description": "Performing database related changes.",
+      "description": "Performing database related changes.执行数据库相关的更改",
       "name": "card-file-box"
     },
     {
       "emoji": "🔊",
       "entity": "&#128266;",
       "code": ":loud_sound:",
-      "description": "Adding or updating logs.",
+      "description": "Adding or updating logs.添加或更改日志记录",
       "name": "loud-sound"
     },
     {
       "emoji": "🔇",
       "entity": "&#128263;",
       "code": ":mute:",
-      "description": "Removing logs.",
+      "description": "Removing logs.移除日志记录",
       "name": "mute"
     },
     {
       "emoji": "👥",
       "entity": "&#128101;",
       "code": ":busts_in_silhouette:",
-      "description": "Adding or updating contributor(s).",
+      "description": "Adding or updating contributor(s).添加或更改贡献者",
       "name": "busts-in-silhouette"
     },
     {
       "emoji": "🚸",
       "entity": "&#128696;",
       "code": ":children_crossing:",
-      "description": "Improving user experience / usability.",
+      "description": "Improving user experience / usability.提高用户体验/可用性",
       "name": "children-crossing"
     },
     {
       "emoji": "🏗",
       "entity": "&#1f3d7;",
       "code": ":building_construction:",
-      "description": "Making architectural changes.",
+      "description": "Making architectural changes.更改架构",
       "name": "building-construction"
     },
     {
       "emoji": "📱",
       "entity": "&#128241;",
       "code": ":iphone:",
-      "description": "Working on responsive design.",
+      "description": "Working on responsive design.响应式设计",
       "name": "iphone"
     },
     {
       "emoji": "🤡",
       "entity": "&#129313;",
       "code": ":clown_face:",
-      "description": "Mocking things.",
+      "description": "Mocking things.Mock数据",
       "name": "clown-face"
     },
     {
       "emoji": "🥚",
       "entity": "&#129370;",
       "code": ":egg:",
-      "description": "Adding or updating an easter egg.",
+      "description": "Adding or updating an easter egg.添加或更改复活节彩蛋",
       "name": "egg"
     },
     {
       "emoji": "🙈",
       "entity": "&#8bdfe7;",
       "code": ":see_no_evil:",
-      "description": "Adding or updating a .gitignore file",
+      "description": "Adding or updating a .gitignore file.添加或更改.gitignore文件",
       "name": "see-no-evil"
     },
     {
       "emoji": "📸",
       "entity": "&#128248;",
       "code": ":camera_flash:",
-      "description": "Adding or updating snapshots",
+      "description": "Adding or updating snapshots. 添加或更改快照",
       "name": "camera-flash"
     },
     {
       "emoji": "⚗",
       "entity": "&#128248;",
       "code": ":alembic:",
-      "description": "Experimenting new things",
+      "description": "Experimenting new things.尝试新事物",
       "name": "alembic"
     },
     {
       "emoji": "🔍",
       "entity": "&#128269;",
       "code": ":mag:",
-      "description": "Improving SEO",
+      "description": "Improving SEO.优化SEO",
       "name": "mag"
     },
     {
       "emoji": "🏷️",
       "entity": "&#127991;",
       "code": ":label:",
-      "description": "Adding or updating types (Flow, TypeScript)",
+      "description": "Adding or updating types (Flow, TypeScript).添加或更改类型（Flow，TypeScript）",
       "name": "label"
     },
     {
@@ -396,28 +396,28 @@
       "emoji": "🚩",
       "entity": "&#x1F6A9;",
       "code": ":triangular_flag_on_post:",
-      "description": "Adding, updating, or removing feature flags",
+      "description": "Adding, updating, or removing feature flags.添加，更新或删除功能标志",
       "name": "triangular-flag-on-post"
     },
     {
       "emoji": "🥅",
       "entity": "&#x1F945;",
       "code": ":goal_net:",
-      "description": "Catching errors",
+      "description": "Catching errors.捕获错误",
       "name": "goal-net"
     },
     {
       "emoji": "💫",
       "entity": "&#x1f4ab;",
       "code": ":dizzy:",
-      "description": "Adding or updating animations and transitions",
+      "description": "Adding or updating animations and transitions.添加或更改动画和过渡",
       "name": "animation"
     },
     {
       "emoji": "🗑",
       "entity": "&#x1F5D1;",
       "code": ":wastebasket:",
-      "description": "Deprecating code that needs to be cleaned up.",
+      "description": "Deprecating code that needs to be cleaned up.清理废弃的代码。",
       "name": "wastebasket"
     }
   ]

@@ -22,7 +22,11 @@ const Gitmoji = (props: Props) => (
         <div className="gitmoji-code" data-clipboard-text={props.code}>
           <code>{props.code}</code>
         </div>
-        <p>{props.description}</p>
+        <p>
+          {props.description.split(/\b\./)[0]}
+          <br />
+          {props.description.split(/\b\./)[1]}
+        </p>
       </div>
     </div>
   </article>
