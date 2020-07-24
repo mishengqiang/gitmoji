@@ -34,6 +34,7 @@ exports[`GitmojiList should render the component 1`] = `
         </div>
         <p>
           Improve structure / format of the code
+          .
           <br />
           改进代码结构或格式化代码
         </p>
@@ -69,6 +70,7 @@ exports[`GitmojiList should render the component 1`] = `
         </div>
         <p>
           Improve performance
+          .
           <br />
           提升性能
         </p>
@@ -104,6 +106,7 @@ exports[`GitmojiList should render the component 1`] = `
         </div>
         <p>
           Remove code or files
+          .
           <br />
           删除代码或文件
         </p>
@@ -139,6 +142,7 @@ exports[`GitmojiList should render the component 1`] = `
         </div>
         <p>
           Fix a bug
+          .
           <br />
           修复Bug
         </p>
@@ -174,6 +178,7 @@ exports[`GitmojiList should render the component 1`] = `
         </div>
         <p>
           Critical hotfix
+          .
           <br />
           紧急修复
         </p>
@@ -209,6 +214,7 @@ exports[`GitmojiList should render the component 1`] = `
         </div>
         <p>
           Introduce new features
+          .
           <br />
           介绍新特性
         </p>
