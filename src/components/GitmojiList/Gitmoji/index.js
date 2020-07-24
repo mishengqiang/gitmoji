@@ -4,7 +4,7 @@ type Props = {
   code: string,
   description: string,
   emoji: string,
-  name: string
+  name: string,
 }
 
 const Gitmoji = (props: Props) => (
@@ -23,7 +23,7 @@ const Gitmoji = (props: Props) => (
           <code>{props.code}</code>
         </div>
         <p>
-          {props.description.split(/\b\./)[0]}
+          {props.description.split(/\b\./)[0]}.
           <br />
           {props.description.split(/\b\./)[1]}
         </p>
